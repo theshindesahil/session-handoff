@@ -1,6 +1,6 @@
 # Claude Code Dotfiles
 
-Global Claude Code config — works on any machine, any account.
+Global Claude Code config : works on any machine, any account.
 
 ## What's here
 
