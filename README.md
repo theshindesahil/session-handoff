@@ -7,8 +7,8 @@ Global Claude Code config : works on any machine, any account.
 | File | Installs to | Purpose |
 |------|-------------|---------|
 | `CLAUDE.md` | `~/.claude/CLAUDE.md` | Global preferences applied to every session |
-| `commands/handoff.md` | `~/.claude/commands/handoff.md` | `/user:handoff` — generates a session handoff doc |
-| `commands/continue.md` | `~/.claude/commands/continue.md` | `/user:continue` — loads the handoff doc and resumes |
+| `commands/handoff.md` | `~/.claude/commands/handoff.md` | `/user:handoff` : generates a session handoff doc |
+| `commands/continue.md` | `~/.claude/commands/continue.md` | `/user:continue` : loads the handoff doc and resumes |
 
 ## Install on a new machine
 
